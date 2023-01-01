@@ -17,6 +17,8 @@
 
 
 # 🪐 개발
+### JavaScript
+- [자바 스크립트 기초 문법](https://github.com/limLion/TIL/blob/main/javascript/%EC%9E%90%EB%B0%94%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95.md)
 ### Node.js
 - 
 - 
