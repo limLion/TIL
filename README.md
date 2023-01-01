@@ -5,6 +5,8 @@
 ## 규칙
 > ✨ <a href="https://subsequent-pheasant-108.notion.site/Today-I-Learned-0ac7f654079743c1806e71592d00539b">__TIL Notion__</a>에 하루 TIL 기록 -> 깃허브 TIL에 폴더로 정리해서 올린다
 
+> ✨ 큼지막한 기록은 <a href="https://velog.io/@limlion1128">__기술 블로그__</a>에 올린다
+
 > ✨ 매주 `일요일`에 배운 내용 정리해서 **README에 `링크` 걸기**
 
 > ✨ __부담 갖지 말고__ 조금이라도 배운 것 올리기
