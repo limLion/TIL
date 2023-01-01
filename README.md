@@ -1,17 +1,18 @@
 # Today I Learned
-> 시작일 : 2023.01.01
+## 🪐 __TIL 노션 링크__ 🪐
+>##### https://subsequent-pheasant-108.notion.site/Today-I-Learned-0ac7f654079743c1806e71592d00539b
+
 ## 규칙
+> ✨ <a href="https://subsequent-pheasant-108.notion.site/Today-I-Learned-0ac7f654079743c1806e71592d00539b">__TIL Notion__</a>에 하루 TIL 기록 -> 깃허브 TIL에 폴더로 정리해서 올린다
+
+> ✨ 매주 `일요일`에 배운 내용 정리해서 **README에 `링크` 걸기**
+
 > ✨ __부담 갖지 말고__ 조금이라도 배운 것 올리기
 
 > ✨ __내용 중구난방 x__ 
 > 누구나 알아볼 수 있을 정도로 최대한 `깔끔하게` 작성
 
-> ✨ 처음에는 지저분하게 써도 다 쓰고 마지막에 수정 허용
 
-> ✨ __하루 TIL은 `당일`에 끝내기__
-
-
-> ✨ 매주 `일요일`에는 배운 내용 정리해서 **README에 `링크` 걸기**
 
 # 🪐 개발
 ### Node.js
