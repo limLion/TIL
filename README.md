@@ -18,7 +18,7 @@
 
 # 🪐 개발
 ### JavaScript
-- [자바 스크립트 기본 원시타입](https://github.com/limLion/TIL/blob/main/javascript/%EC%9E%90%EB%B0%94%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95.md)
+- [자바 스크립트 기본 원시타입](https://github.com/limLion/TIL/blob/main/javascript/%EC%9E%90%EB%B0%94%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B8%B0%EB%B3%B8%20%EC%9B%90%EC%8B%9C%ED%83%80%EC%9E%85.md)
 ### Node.js
 - 
 - 
