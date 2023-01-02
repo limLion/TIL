@@ -27,7 +27,7 @@
 - 
 - 
 ### Django
-- 
+- [FBV vs CBV](https://github.com/limLion/TIL/blob/main/django/FBV%20vs%20CBV.md)
 - 
 ### Spring Boot
 - 
