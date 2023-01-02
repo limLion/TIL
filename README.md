@@ -18,7 +18,7 @@
 
 # 🪐 개발
 ### JavaScript
-- [자바 스크립트 기초 문법](https://github.com/limLion/TIL/blob/main/javascript/%EC%9E%90%EB%B0%94%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95.md)
+- [자바 스크립트 기본 원시타입](https://github.com/limLion/TIL/blob/main/javascript/%EC%9E%90%EB%B0%94%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95.md)
 ### Node.js
 - 
 - 
@@ -47,6 +47,6 @@
 # 🪐 깃허브 / 협업
 - [자주 사용하는 명령어](https://github.com/limLion/TIL/blob/main/github/%EC%9E%90%EC%A3%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 # 🪐 기타
-
+- [Vs Code Extention 추천영상](https://youtu.be/rH1RTwaAeGc)
 
 
