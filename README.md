@@ -25,6 +25,7 @@
 - [자바스크립트 루프](https://github.com/limLion/TIL/blob/main/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EB%A3%A8%ED%94%84.md)
 - [자바스크립트 함수](https://github.com/limLion/TIL/blob/main/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%95%A8%EC%88%98.md)
 - [자바스크립트 콜백과 배열](https://github.com/limLion/TIL/blob/main/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%BD%9C%EB%B0%B1%EA%B3%BC%20%EB%B0%B0%EC%97%B4.md)
+- [자바스크립트 최신 문법들](https://github.com/limLion/TIL/blob/main/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%EC%B5%9C%EC%8B%A0%EA%B8%B0%EB%8A%A5%EB%93%A4.md)
 ### Node.js
 - 
 - 
