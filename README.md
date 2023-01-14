@@ -49,8 +49,7 @@
 - 
 - 
 ### 기타 개발 지식
-- API
-- REST API
+- [객체지향 프로그래밍](https://github.com/limLion/TIL/blob/main/basicConcepts/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 # 🪐 깃허브 / 협업
 - [자주 사용하는 명령어](https://github.com/limLion/TIL/blob/main/github/%EC%9E%90%EC%A3%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 # 🪐 그 외
