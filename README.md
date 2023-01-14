@@ -1,6 +1,4 @@
 # Today I Learned
-## 🪐 __TIL 노션 링크__ 🪐
->##### https://subsequent-pheasant-108.notion.site/Today-I-Learned-0ac7f654079743c1806e71592d00539b
 
 ## 규칙
 > ✨ <a href="https://subsequent-pheasant-108.notion.site/Today-I-Learned-0ac7f654079743c1806e71592d00539b">__TIL Notion__</a>에 하루 TIL 기록 -> 깃허브 TIL에 폴더로 정리해서 올린다
