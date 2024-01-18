@@ -6,7 +6,7 @@
 
 <img src="https://i.pinimg.com/564x/38/10/be/3810be6c3e594f70d63b71bcf91cf49a.jpg" width=300/>
 
-📌 목차
+## 목차
 - [Back-end](#back-end)
   - [Java](#java)
   - [Node.js](#nodejs)
