@@ -40,6 +40,12 @@
 - [추상클래스](https://github.com/limLion/TIL/blob/main/java/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 
 ### SQL
+- [데이터베이스](https://github.com/yel-m/TIL/blob/main/sql/01%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
+- [[DESC] 테이블 구조 참조](https://github.com/yel-m/TIL/blob/main/sql/02%20%5BDESC%5D%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B5%AC%EC%A1%B0%20%EC%B0%B8%EC%A1%B0.md)
+- [[SELECT] SELECT문 사용하기](https://github.com/yel-m/TIL/blob/main/sql/03%20%5BSELECT%5D%20SELECT%EB%AC%B8%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- [[SELECT] WHERE로 검색 조건 지정하기](https://github.com/yel-m/TIL/blob/main/sql/04%20%5BSELECT%5D%20WHERE%EB%A1%9C%20%EA%B2%80%EC%83%89%20%EC%A1%B0%EA%B1%B4%20%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0.md)
+- [[SELECT] AND OR NOT](https://github.com/yel-m/TIL/blob/main/sql/05%20%5BSELECT%5D%20AND_OR_NOT.md)
+- [[SELECT] LIKE 패턴으로 부분 검색](https://github.com/yel-m/TIL/blob/main/sql/06%20%5BSELECT%5D%20LIKE%20%ED%8C%A8%ED%84%B4%EC%9C%BC%EB%A1%9C%20%EB%B6%80%EB%B6%84%20%EA%B2%80%EC%83%89.md)
 
 ### 개념
 - [객체지향 프로그래밍](https://github.com/limLion/TIL/blob/main/basicConcepts/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
