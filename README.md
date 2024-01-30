@@ -46,9 +46,9 @@
   - [📚 다형성](https://github.com/limLion/TIL/blob/main/java/%EB%8B%A4%ED%98%95%EC%84%B1.md)
   - [📚 추상클래스](https://github.com/limLion/TIL/blob/main/java/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 - 테스트
-  - [JUnit 사용하기](https://github.com/yel-m/TIL/blob/main/java/JUnit%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+  - [📄 JUnit 사용하기](https://github.com/yel-m/TIL/blob/main/java/JUnit%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - 기타
-  - [로깅 라이브러리를 이용해 디버그하기](https://github.com/yel-m/TIL/blob/main/java/%EB%A1%9C%EA%B9%85%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
+  - [📄 로깅 라이브러리를 이용해 디버그하기](https://github.com/yel-m/TIL/blob/main/java/%EB%A1%9C%EA%B9%85%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
 ### Spring
 - [👩‍🏫 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://github.com/yel-m/TIL/tree/main/java/start_spring_boot)
 ### Spring Boot
@@ -84,4 +84,4 @@
 - [📚 파이프라이닝_2](https://github.com/yel-m/TIL/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/(7)%20%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8B%9D_2.md)
 
 ## 깃허브
-- [자주 사용하는 명령어](https://github.com/limLion/TIL/blob/main/github/%EC%9E%90%EC%A3%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+- [📄 자주 사용하는 명령어](https://github.com/limLion/TIL/blob/main/github/%EC%9E%90%EC%A3%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
