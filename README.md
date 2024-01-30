@@ -14,6 +14,7 @@
 - [Front-end](#front-end)
   - [JavaScript](#javascript)
 - [CS](#cs)
+  - [컴퓨터 구조](#컴퓨터-구조) 
 - [깃허브](#깃허브)
 - [그 외](#그-외)
   -  
@@ -62,7 +63,8 @@
 - [👩‍🏫 자바스크립트 함수](https://github.com/limLion/TIL/blob/main/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%95%A8%EC%88%98.md)
 - [👩‍🏫 자바스크립트 콜백과 배열](https://github.com/limLion/TIL/blob/main/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%BD%9C%EB%B0%B1%EA%B3%BC%20%EB%B0%B0%EC%97%B4.md)
 - [👩‍🏫 자바스크립트 최신 문법들](https://github.com/limLion/TIL/blob/main/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%EC%B5%9C%EC%8B%A0%EA%B8%B0%EB%8A%A5%EB%93%A4.md)
-### CS
+## CS
+### 컴퓨터 구조
 - [📚 컴퓨터 구조 기초](https://github.com/yel-m/TIL/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/(1)%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%20%EA%B8%B0%EC%B4%88.md)
 - [📚 컴퓨터 추상화와 성능평가](https://github.com/yel-m/TIL/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/(2)%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%B6%94%EC%83%81%ED%99%94%EC%99%80%20%EC%84%B1%EB%8A%A5%ED%8F%89%EA%B0%80.md)
 - [📚 명령어의 종류와 기능과 형식](https://github.com/yel-m/TIL/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/(3)%20%EB%AA%85%EB%A0%B9%EC%96%B4%EC%9D%98%20%EC%A2%85%EB%A5%98%EC%99%80%20%EA%B8%B0%EB%8A%A5%EA%B3%BC%20%ED%98%95%EC%8B%9D.md)
